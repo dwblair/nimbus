@@ -1,0 +1,58 @@
+{
+   "nodes" : [
+      {
+         "name" : "NYT",
+         "id" : "final_score"
+      },
+      {
+         "name" : "Environment",
+         "id" : "environment_score"
+      },
+      {
+         "name" : "Land use",
+         "id" : "land_use_score"
+      },
+      {
+         "id" : "research_ingredient_177",
+         "name" : "Cocoa butter (Organic)"
+      },
+      {
+         "id" : "B",
+         "name" : "poo"
+      },
+      {
+         "id" : "C",
+         "name" : "halibut"
+      },
+{
+         "id" : "C",
+         "name" : "halibut"
+      },
+{
+         "id" : "C",
+         "name" : "halibut"
+      }
+   ],
+   "links" : [
+      {
+         "source" : 0,
+         "value" : 0.1,
+         "target" : 1
+      },
+      {
+         "value" : 0.1,
+         "source" : 2,
+         "target" : 1
+      },
+      {
+         "value" : 0.1,
+         "source" : 4,
+         "target" : 5
+      },
+     {
+         "value" : 0.1,
+         "source" : 6,
+         "target" : 7
+      }
+   ]
+}
