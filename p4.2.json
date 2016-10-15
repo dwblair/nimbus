@@ -1,0 +1,164 @@
+{
+  "directed": true,
+  "graph": {},
+  "colors": {},
+  "links": [
+    {
+      "source": 3,
+      "target": 2,
+      "value": 245
+    },
+    {
+      "source": 3,
+      "target": 0,
+      "value": 90
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "value": 27
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "value": 57
+    },
+    {
+      "source": 5,
+      "target": 12,
+      "value": 53
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "value": 190
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "value": 106
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "value": 263
+    },
+    {
+      "source": 10,
+      "target": 7,
+      "value": 37
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "value": 59
+    },
+    {
+      "source": 11,
+      "target": 8,
+      "value": 45
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 96
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "value": 149
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "value": 165
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 227
+    },
+    {
+      "source": 14,
+      "target": 6,
+      "value": 84
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "value": 92
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 156
+    }
+  ],
+  "multigraph": false,
+  "nodes": [
+    {
+      "name": "obama",
+      "id": "word"
+    },
+    {
+      "name": "clinton",
+      "id": "word"
+    },
+    {
+      "name": "trump",
+      "id": "word"
+    },
+    {
+      "name": "rightwingwatch.org",
+      "id": "media_source"
+    },
+    {
+      "name": "Mother Jones",
+      "id": "mother_jones_score"
+    },
+    {
+      "name": "The Daily Beast",
+      "id": "beast_score"
+    },
+    {
+      "name": "immigration",
+      "id": "word"
+    },
+    {
+      "name": "breitbart",
+      "id": "word"
+    },
+    {
+      "name": "racist",
+      "id": "word"
+    },
+    {
+      "name": "Washington Post",
+      "id": "media_source"
+    },
+    {
+      "name": "dailywire.com",
+      "id": "wire_score"
+    },
+    {
+      "name": "splcenter.org",
+      "id": "media_source"
+    },
+    {
+      "name": "alt",
+      "id": "word"
+    },
+    {
+      "name": "breitbart.com",
+      "id": "media_source"
+    },
+    {
+      "name": "Vox",
+      "id": "media_source"
+    },
+    {
+      "name": "Politico",
+      "id": "media_source"
+    }
+  ]
+}

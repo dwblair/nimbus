@@ -1,0 +1,4066 @@
+{
+  "directed": true,
+  "graph": {},
+  "links": [
+    {
+      "source": 65,
+      "target": 437,
+      "value": 5
+    },
+    {
+      "source": 65,
+      "target": 764,
+      "value": 9
+    },
+    {
+      "source": 65,
+      "target": 256,
+      "value": 21
+    },
+    {
+      "source": 65,
+      "target": 7,
+      "value": 6
+    },
+    {
+      "source": 65,
+      "target": 50,
+      "value": 11
+    },
+    {
+      "source": 65,
+      "target": 10,
+      "value": 5
+    },
+    {
+      "source": 65,
+      "target": 12,
+      "value": 42
+    },
+    {
+      "source": 65,
+      "target": 519,
+      "value": 13
+    },
+    {
+      "source": 65,
+      "target": 520,
+      "value": 16
+    }
+  ],
+  "multigraph": false,
+  "nodes": [
+    {
+      "id": "premeditated",
+      "type": "word"
+    },
+    {
+      "id": "endorsed",
+      "type": "word"
+    },
+    {
+      "id": "founder",
+      "type": "word"
+    },
+    {
+      "id": "hordes",
+      "type": "word"
+    },
+    {
+      "id": "scottie",
+      "type": "word"
+    },
+    {
+      "id": "global",
+      "type": "word"
+    },
+    {
+      "id": "dwyane",
+      "type": "word"
+    },
+    {
+      "id": "steve",
+      "type": "word"
+    },
+    {
+      "id": "burqa",
+      "type": "word"
+    },
+    {
+      "id": "mosul",
+      "type": "word"
+    },
+    {
+      "id": "welfare",
+      "type": "word"
+    },
+    {
+      "id": "milo",
+      "type": "word"
+    },
+    {
+      "id": "alt",
+      "type": "word"
+    },
+    {
+      "id": "tweeted",
+      "type": "word"
+    },
+    {
+      "id": "mercer",
+      "type": "word"
+    },
+    {
+      "id": "children",
+      "type": "word"
+    },
+    {
+      "id": "vile",
+      "type": "word"
+    },
+    {
+      "id": "tweet",
+      "type": "word"
+    },
+    {
+      "id": "wizard",
+      "type": "word"
+    },
+    {
+      "id": "obamacare",
+      "type": "word"
+    },
+    {
+      "id": "disgusting",
+      "type": "word"
+    },
+    {
+      "id": "anglin",
+      "type": "word"
+    },
+    {
+      "id": "praised",
+      "type": "word"
+    },
+    {
+      "id": "retweets",
+      "type": "word"
+    },
+    {
+      "id": "terror",
+      "type": "word"
+    },
+    {
+      "id": "exit",
+      "type": "word"
+    },
+    {
+      "id": "silicon",
+      "type": "word"
+    },
+    {
+      "id": "sniper",
+      "type": "word"
+    },
+    {
+      "id": "mainstream",
+      "type": "word"
+    },
+    {
+      "id": "manafort",
+      "type": "word"
+    },
+    {
+      "id": "billionaire",
+      "type": "word"
+    },
+    {
+      "id": "harambe",
+      "type": "word"
+    },
+    {
+      "id": "facebook",
+      "type": "word"
+    },
+    {
+      "id": "ghostbusters",
+      "type": "word"
+    },
+    {
+      "id": "anonymous",
+      "type": "word"
+    },
+    {
+      "id": "assad",
+      "type": "word"
+    },
+    {
+      "id": "precinct",
+      "type": "word"
+    },
+    {
+      "id": "the_donald",
+      "type": "word"
+    },
+    {
+      "id": "standwithleslie",
+      "type": "word"
+    },
+    {
+      "id": "sant",
+      "type": "word"
+    },
+    {
+      "id": "disavowing",
+      "type": "word"
+    },
+    {
+      "id": "cable",
+      "type": "word"
+    },
+    {
+      "id": "elevate",
+      "type": "word"
+    },
+    {
+      "id": "gender",
+      "type": "word"
+    },
+    {
+      "id": "michael",
+      "type": "word"
+    },
+    {
+      "id": "democrat",
+      "type": "word"
+    },
+    {
+      "id": "ryan",
+      "type": "word"
+    },
+    {
+      "id": "christmas",
+      "type": "word"
+    },
+    {
+      "id": "speculation",
+      "type": "word"
+    },
+    {
+      "id": "exemptions",
+      "type": "word"
+    },
+    {
+      "id": "democrats",
+      "type": "word"
+    },
+    {
+      "id": "olympic",
+      "type": "word"
+    },
+    {
+      "id": "polls",
+      "type": "word"
+    },
+    {
+      "id": "iran",
+      "type": "word"
+    },
+    {
+      "id": "organised",
+      "type": "word"
+    },
+    {
+      "id": "penalties",
+      "type": "word"
+    },
+    {
+      "id": "queer",
+      "type": "word"
+    },
+    {
+      "id": "ted",
+      "type": "word"
+    },
+    {
+      "id": "japanese",
+      "type": "word"
+    },
+    {
+      "id": "dnc",
+      "type": "word"
+    },
+    {
+      "id": "colin",
+      "type": "word"
+    },
+    {
+      "id": "stamping",
+      "type": "word"
+    },
+    {
+      "id": "nbc",
+      "type": "word"
+    },
+    {
+      "id": "aggressive",
+      "type": "word"
+    },
+    {
+      "id": "bully",
+      "type": "word"
+    },
+    {
+      "id": "CNN",
+      "type": "media_source"
+    },
+    {
+      "id": "neo",
+      "type": "word"
+    },
+    {
+      "id": "brexit",
+      "type": "word"
+    },
+    {
+      "id": "essence",
+      "type": "word"
+    },
+    {
+      "id": "richard",
+      "type": "word"
+    },
+    {
+      "id": "campuses",
+      "type": "word"
+    },
+    {
+      "id": "rot",
+      "type": "word"
+    },
+    {
+      "id": "tantaros",
+      "type": "word"
+    },
+    {
+      "id": "insinuated",
+      "type": "word"
+    },
+    {
+      "id": "ingraham",
+      "type": "word"
+    },
+    {
+      "id": "richmond",
+      "type": "word"
+    },
+    {
+      "id": "deleted",
+      "type": "word"
+    },
+    {
+      "id": "indian",
+      "type": "word"
+    },
+    {
+      "id": "apologized",
+      "type": "word"
+    },
+    {
+      "id": "ukrainian",
+      "type": "word"
+    },
+    {
+      "id": "endorse",
+      "type": "word"
+    },
+    {
+      "id": "nev",
+      "type": "word"
+    },
+    {
+      "id": "boost",
+      "type": "word"
+    },
+    {
+      "id": "journal",
+      "type": "word"
+    },
+    {
+      "id": "nazis",
+      "type": "word"
+    },
+    {
+      "id": "plouffe",
+      "type": "word"
+    },
+    {
+      "id": "christian",
+      "type": "word"
+    },
+    {
+      "id": "healthcare",
+      "type": "word"
+    },
+    {
+      "id": "pluribus",
+      "type": "word"
+    },
+    {
+      "id": "guardian",
+      "type": "word"
+    },
+    {
+      "id": "muslim",
+      "type": "word"
+    },
+    {
+      "id": "conglomerate",
+      "type": "word"
+    },
+    {
+      "id": "beck",
+      "type": "word"
+    },
+    {
+      "id": "deposition",
+      "type": "word"
+    },
+    {
+      "id": "weisman",
+      "type": "word"
+    },
+    {
+      "id": "threads",
+      "type": "word"
+    },
+    {
+      "id": "palin",
+      "type": "word"
+    },
+    {
+      "id": "cult",
+      "type": "word"
+    },
+    {
+      "id": "iraq",
+      "type": "word"
+    },
+    {
+      "id": "implicit",
+      "type": "word"
+    },
+    {
+      "id": "violate",
+      "type": "word"
+    },
+    {
+      "id": "ukraine",
+      "type": "word"
+    },
+    {
+      "id": "birther",
+      "type": "word"
+    },
+    {
+      "id": "splc",
+      "type": "word"
+    },
+    {
+      "id": "cuckservative",
+      "type": "word"
+    },
+    {
+      "id": "antisemitic",
+      "type": "word"
+    },
+    {
+      "id": "gstaad",
+      "type": "word"
+    },
+    {
+      "id": "casino",
+      "type": "word"
+    },
+    {
+      "id": "disavow",
+      "type": "word"
+    },
+    {
+      "id": "tolerating",
+      "type": "word"
+    },
+    {
+      "id": "paranoid",
+      "type": "word"
+    },
+    {
+      "id": "cheadle",
+      "type": "word"
+    },
+    {
+      "id": "analysts",
+      "type": "word"
+    },
+    {
+      "id": "zeleny",
+      "type": "word"
+    },
+    {
+      "id": "opinion",
+      "type": "word"
+    },
+    {
+      "id": "weird",
+      "type": "word"
+    },
+    {
+      "id": "studies",
+      "type": "word"
+    },
+    {
+      "id": "pledged",
+      "type": "word"
+    },
+    {
+      "id": "love",
+      "type": "word"
+    },
+    {
+      "id": "family",
+      "type": "word"
+    },
+    {
+      "id": "deputy",
+      "type": "word"
+    },
+    {
+      "id": "kordei",
+      "type": "word"
+    },
+    {
+      "id": "advisor",
+      "type": "word"
+    },
+    {
+      "id": "reagan",
+      "type": "word"
+    },
+    {
+      "id": "semites",
+      "type": "word"
+    },
+    {
+      "id": "conspiratorial",
+      "type": "word"
+    },
+    {
+      "id": "jewess",
+      "type": "word"
+    },
+    {
+      "id": "scandal",
+      "type": "word"
+    },
+    {
+      "id": "actress",
+      "type": "word"
+    },
+    {
+      "id": "armed",
+      "type": "word"
+    },
+    {
+      "id": "crisis",
+      "type": "word"
+    },
+    {
+      "id": "opponents",
+      "type": "word"
+    },
+    {
+      "id": "sarah",
+      "type": "word"
+    },
+    {
+      "id": "outrageous",
+      "type": "word"
+    },
+    {
+      "id": "cheered",
+      "type": "word"
+    },
+    {
+      "id": "khan",
+      "type": "word"
+    },
+    {
+      "id": "certificate",
+      "type": "word"
+    },
+    {
+      "id": "army",
+      "type": "word"
+    },
+    {
+      "id": "illegal",
+      "type": "word"
+    },
+    {
+      "id": "destination",
+      "type": "word"
+    },
+    {
+      "id": "retweeted",
+      "type": "word"
+    },
+    {
+      "id": "frog",
+      "type": "word"
+    },
+    {
+      "id": "france",
+      "type": "word"
+    },
+    {
+      "id": "twp",
+      "type": "word"
+    },
+    {
+      "id": "foster",
+      "type": "word"
+    },
+    {
+      "id": "diesel",
+      "type": "word"
+    },
+    {
+      "id": "Mother Jones",
+      "type": "media_source"
+    },
+    {
+      "id": "prosecutor",
+      "type": "word"
+    },
+    {
+      "id": "endorsing",
+      "type": "word"
+    },
+    {
+      "id": "israel",
+      "type": "word"
+    },
+    {
+      "id": "parliament",
+      "type": "word"
+    },
+    {
+      "id": "kerry",
+      "type": "word"
+    },
+    {
+      "id": "journalists",
+      "type": "word"
+    },
+    {
+      "id": "mchugh",
+      "type": "word"
+    },
+    {
+      "id": "hurt",
+      "type": "word"
+    },
+    {
+      "id": "trail",
+      "type": "word"
+    },
+    {
+      "id": "flag",
+      "type": "word"
+    },
+    {
+      "id": "appel",
+      "type": "word"
+    },
+    {
+      "id": "banned",
+      "type": "word"
+    },
+    {
+      "id": "qz.com",
+      "type": "media_source"
+    },
+    {
+      "id": "departure",
+      "type": "word"
+    },
+    {
+      "id": "charity",
+      "type": "word"
+    },
+    {
+      "id": "touchscreens",
+      "type": "word"
+    },
+    {
+      "id": "ethno",
+      "type": "word"
+    },
+    {
+      "id": "vladimir",
+      "type": "word"
+    },
+    {
+      "id": "canceled",
+      "type": "word"
+    },
+    {
+      "id": "science",
+      "type": "word"
+    },
+    {
+      "id": "clients",
+      "type": "word"
+    },
+    {
+      "id": "abortion",
+      "type": "word"
+    },
+    {
+      "id": "coalition",
+      "type": "word"
+    },
+    {
+      "id": "Media Matters",
+      "type": "media_source"
+    },
+    {
+      "id": "incites",
+      "type": "word"
+    },
+    {
+      "id": "values",
+      "type": "word"
+    },
+    {
+      "id": "praise",
+      "type": "word"
+    },
+    {
+      "id": "smear",
+      "type": "word"
+    },
+    {
+      "id": "tribalism",
+      "type": "word"
+    },
+    {
+      "id": "pickle",
+      "type": "word"
+    },
+    {
+      "id": "heimbach",
+      "type": "word"
+    },
+    {
+      "id": "spy",
+      "type": "word"
+    },
+    {
+      "id": "violence",
+      "type": "word"
+    },
+    {
+      "id": "gamergate",
+      "type": "word"
+    },
+    {
+      "id": "trump",
+      "type": "word"
+    },
+    {
+      "id": "hyatt",
+      "type": "word"
+    },
+    {
+      "id": "predict",
+      "type": "word"
+    },
+    {
+      "id": "The New Yorker",
+      "type": "media_source"
+    },
+    {
+      "id": "monitoring",
+      "type": "word"
+    },
+    {
+      "id": "tax",
+      "type": "word"
+    },
+    {
+      "id": "fuck",
+      "type": "word"
+    },
+    {
+      "id": "ann",
+      "type": "word"
+    },
+    {
+      "id": "topic",
+      "type": "word"
+    },
+    {
+      "id": "fanciful",
+      "type": "word"
+    },
+    {
+      "id": "gizmodo",
+      "type": "word"
+    },
+    {
+      "id": "Washington Post",
+      "type": "media_source"
+    },
+    {
+      "id": "libertarian",
+      "type": "word"
+    },
+    {
+      "id": "tolerant",
+      "type": "word"
+    },
+    {
+      "id": "overtly",
+      "type": "word"
+    },
+    {
+      "id": "crimes",
+      "type": "word"
+    },
+    {
+      "id": "rape",
+      "type": "word"
+    },
+    {
+      "id": "inciting",
+      "type": "word"
+    },
+    {
+      "id": "yiannapolous",
+      "type": "word"
+    },
+    {
+      "id": "filter",
+      "type": "word"
+    },
+    {
+      "id": "bigot",
+      "type": "word"
+    },
+    {
+      "id": "embodiment",
+      "type": "word"
+    },
+    {
+      "id": "harkinson",
+      "type": "word"
+    },
+    {
+      "id": "lien",
+      "type": "word"
+    },
+    {
+      "id": "lusted",
+      "type": "word"
+    },
+    {
+      "id": "hugo",
+      "type": "word"
+    },
+    {
+      "id": "hugh",
+      "type": "word"
+    },
+    {
+      "id": "nyt",
+      "type": "word"
+    },
+    {
+      "id": "brian",
+      "type": "word"
+    },
+    {
+      "id": "rubio",
+      "type": "word"
+    },
+    {
+      "id": "rubin",
+      "type": "word"
+    },
+    {
+      "id": "taj",
+      "type": "word"
+    },
+    {
+      "id": "endorsement",
+      "type": "word"
+    },
+    {
+      "id": "dismisses",
+      "type": "word"
+    },
+    {
+      "id": "ordinary",
+      "type": "word"
+    },
+    {
+      "id": "merkel",
+      "type": "word"
+    },
+    {
+      "id": "idaho",
+      "type": "word"
+    },
+    {
+      "id": "economy",
+      "type": "word"
+    },
+    {
+      "id": "profile",
+      "type": "word"
+    },
+    {
+      "id": "okay",
+      "type": "word"
+    },
+    {
+      "id": "capture",
+      "type": "word"
+    },
+    {
+      "id": "southern",
+      "type": "word"
+    },
+    {
+      "id": "diva",
+      "type": "word"
+    },
+    {
+      "id": "disgusted",
+      "type": "word"
+    },
+    {
+      "id": "ronald",
+      "type": "word"
+    },
+    {
+      "id": "islamic",
+      "type": "word"
+    },
+    {
+      "id": "breitbart",
+      "type": "word"
+    },
+    {
+      "id": "abuse",
+      "type": "word"
+    },
+    {
+      "id": "debt",
+      "type": "word"
+    },
+    {
+      "id": "klan",
+      "type": "word"
+    },
+    {
+      "id": "wikileaks",
+      "type": "word"
+    },
+    {
+      "id": "nomination",
+      "type": "word"
+    },
+    {
+      "id": "infowars",
+      "type": "word"
+    },
+    {
+      "id": "proclaimed",
+      "type": "word"
+    },
+    {
+      "id": "feodosia",
+      "type": "word"
+    },
+    {
+      "id": "danny",
+      "type": "word"
+    },
+    {
+      "id": "Politico",
+      "type": "media_source"
+    },
+    {
+      "id": "johnson",
+      "type": "word"
+    },
+    {
+      "id": "nationalistic",
+      "type": "word"
+    },
+    {
+      "id": "robot",
+      "type": "word"
+    },
+    {
+      "id": "bashing",
+      "type": "word"
+    },
+    {
+      "id": "manipulated",
+      "type": "word"
+    },
+    {
+      "id": "syndicated",
+      "type": "word"
+    },
+    {
+      "id": "agenda",
+      "type": "word"
+    },
+    {
+      "id": "correlation",
+      "type": "word"
+    },
+    {
+      "id": "intellectuals",
+      "type": "word"
+    },
+    {
+      "id": "democratic",
+      "type": "word"
+    },
+    {
+      "id": "athletes",
+      "type": "word"
+    },
+    {
+      "id": "trumpism",
+      "type": "word"
+    },
+    {
+      "id": "outlet",
+      "type": "word"
+    },
+    {
+      "id": "photoshop",
+      "type": "word"
+    },
+    {
+      "id": "salon",
+      "type": "word"
+    },
+    {
+      "id": "mexican",
+      "type": "word"
+    },
+    {
+      "id": "tribe",
+      "type": "word"
+    },
+    {
+      "id": "constituents",
+      "type": "word"
+    },
+    {
+      "id": "crosstalk",
+      "type": "word"
+    },
+    {
+      "id": "kellyanne",
+      "type": "word"
+    },
+    {
+      "id": "bigoted",
+      "type": "word"
+    },
+    {
+      "id": "hampshire",
+      "type": "word"
+    },
+    {
+      "id": "oven",
+      "type": "word"
+    },
+    {
+      "id": "citizenship",
+      "type": "word"
+    },
+    {
+      "id": "japan",
+      "type": "word"
+    },
+    {
+      "id": "surveillance",
+      "type": "word"
+    },
+    {
+      "id": "mayor",
+      "type": "word"
+    },
+    {
+      "id": "islam",
+      "type": "word"
+    },
+    {
+      "id": "highlighted",
+      "type": "word"
+    },
+    {
+      "id": "wrc",
+      "type": "word"
+    },
+    {
+      "id": "oppressing",
+      "type": "word"
+    },
+    {
+      "id": "kaepernick",
+      "type": "word"
+    },
+    {
+      "id": "glenn",
+      "type": "word"
+    },
+    {
+      "id": "labor",
+      "type": "word"
+    },
+    {
+      "id": "aviv",
+      "type": "word"
+    },
+    {
+      "id": "reuters",
+      "type": "word"
+    },
+    {
+      "id": "celebrities",
+      "type": "word"
+    },
+    {
+      "id": "Slate Magazine",
+      "type": "media_source"
+    },
+    {
+      "id": "tweets",
+      "type": "word"
+    },
+    {
+      "id": "suspension",
+      "type": "word"
+    },
+    {
+      "id": "msnbc",
+      "type": "word"
+    },
+    {
+      "id": "criminal",
+      "type": "word"
+    },
+    {
+      "id": "strength",
+      "type": "word"
+    },
+    {
+      "id": "texas",
+      "type": "word"
+    },
+    {
+      "id": "donors",
+      "type": "word"
+    },
+    {
+      "id": "non",
+      "type": "word"
+    },
+    {
+      "id": "usa",
+      "type": "word"
+    },
+    {
+      "id": "iowa",
+      "type": "word"
+    },
+    {
+      "id": "ceo",
+      "type": "word"
+    },
+    {
+      "id": "frontal",
+      "type": "word"
+    },
+    {
+      "id": "perceived",
+      "type": "word"
+    },
+    {
+      "id": "hispanics",
+      "type": "word"
+    },
+    {
+      "id": "invading",
+      "type": "word"
+    },
+    {
+      "id": "kkk",
+      "type": "word"
+    },
+    {
+      "id": "compound",
+      "type": "word"
+    },
+    {
+      "id": "republican",
+      "type": "word"
+    },
+    {
+      "id": "chicago",
+      "type": "word"
+    },
+    {
+      "id": "presidential",
+      "type": "word"
+    },
+    {
+      "id": "rhetoric",
+      "type": "word"
+    },
+    {
+      "id": "alex",
+      "type": "word"
+    },
+    {
+      "id": "hook",
+      "type": "word"
+    },
+    {
+      "id": "reince",
+      "type": "word"
+    },
+    {
+      "id": "james",
+      "type": "word"
+    },
+    {
+      "id": "nfl",
+      "type": "word"
+    },
+    {
+      "id": "barton",
+      "type": "word"
+    },
+    {
+      "id": "chuck",
+      "type": "word"
+    },
+    {
+      "id": "durden",
+      "type": "word"
+    },
+    {
+      "id": "micro",
+      "type": "word"
+    },
+    {
+      "id": "conservatism",
+      "type": "word"
+    },
+    {
+      "id": "victory",
+      "type": "word"
+    },
+    {
+      "id": "murungi",
+      "type": "word"
+    },
+    {
+      "id": "jersey",
+      "type": "word"
+    },
+    {
+      "id": "mosques",
+      "type": "word"
+    },
+    {
+      "id": "amnesty",
+      "type": "word"
+    },
+    {
+      "id": "electorate",
+      "type": "word"
+    },
+    {
+      "id": "shuttle",
+      "type": "word"
+    },
+    {
+      "id": "brat",
+      "type": "word"
+    },
+    {
+      "id": "spanish",
+      "type": "word"
+    },
+    {
+      "id": "yeah",
+      "type": "word"
+    },
+    {
+      "id": "solution",
+      "type": "word"
+    },
+    {
+      "id": "celebrating",
+      "type": "word"
+    },
+    {
+      "id": "populist",
+      "type": "word"
+    },
+    {
+      "id": "pivot",
+      "type": "word"
+    },
+    {
+      "id": "crimea",
+      "type": "word"
+    },
+    {
+      "id": "weaponize",
+      "type": "word"
+    },
+    {
+      "id": "troll",
+      "type": "word"
+    },
+    {
+      "id": "matt",
+      "type": "word"
+    },
+    {
+      "id": "marketplaces",
+      "type": "word"
+    },
+    {
+      "id": "brags",
+      "type": "word"
+    },
+    {
+      "id": "space",
+      "type": "word"
+    },
+    {
+      "id": "god",
+      "type": "word"
+    },
+    {
+      "id": "rep",
+      "type": "word"
+    },
+    {
+      "id": "perfume",
+      "type": "word"
+    },
+    {
+      "id": "janesville",
+      "type": "word"
+    },
+    {
+      "id": "owes",
+      "type": "word"
+    },
+    {
+      "id": "tesler",
+      "type": "word"
+    },
+    {
+      "id": "ciswhitemaelstrom",
+      "type": "word"
+    },
+    {
+      "id": "activist",
+      "type": "word"
+    },
+    {
+      "id": "arkansas",
+      "type": "word"
+    },
+    {
+      "id": "longtime",
+      "type": "word"
+    },
+    {
+      "id": "hacked",
+      "type": "word"
+    },
+    {
+      "id": "internet",
+      "type": "word"
+    },
+    {
+      "id": "memes",
+      "type": "word"
+    },
+    {
+      "id": "tuchman",
+      "type": "word"
+    },
+    {
+      "id": "strategist",
+      "type": "word"
+    },
+    {
+      "id": "gop",
+      "type": "word"
+    },
+    {
+      "id": "foundation",
+      "type": "word"
+    },
+    {
+      "id": "arizona",
+      "type": "word"
+    },
+    {
+      "id": "wisconsin",
+      "type": "word"
+    },
+    {
+      "id": "alleged",
+      "type": "word"
+    },
+    {
+      "id": "drifting",
+      "type": "word"
+    },
+    {
+      "id": "yiannopoulos",
+      "type": "word"
+    },
+    {
+      "id": "cables",
+      "type": "word"
+    },
+    {
+      "id": "free",
+      "type": "word"
+    },
+    {
+      "id": "managerial",
+      "type": "word"
+    },
+    {
+      "id": "california",
+      "type": "word"
+    },
+    {
+      "id": "conservatives",
+      "type": "word"
+    },
+    {
+      "id": "yanukovych",
+      "type": "word"
+    },
+    {
+      "id": "turnout",
+      "type": "word"
+    },
+    {
+      "id": "bash",
+      "type": "word"
+    },
+    {
+      "id": "theodoracopulos",
+      "type": "word"
+    },
+    {
+      "id": "bullying",
+      "type": "word"
+    },
+    {
+      "id": "misogynoir",
+      "type": "word"
+    },
+    {
+      "id": "cair",
+      "type": "word"
+    },
+    {
+      "id": "thread",
+      "type": "word"
+    },
+    {
+      "id": "biosphere",
+      "type": "word"
+    },
+    {
+      "id": "florida",
+      "type": "word"
+    },
+    {
+      "id": "david",
+      "type": "word"
+    },
+    {
+      "id": "pence",
+      "type": "word"
+    },
+    {
+      "id": "american",
+      "type": "word"
+    },
+    {
+      "id": "prejudice",
+      "type": "word"
+    },
+    {
+      "id": "culpa",
+      "type": "word"
+    },
+    {
+      "id": "ivandjiiski",
+      "type": "word"
+    },
+    {
+      "id": "syria",
+      "type": "word"
+    },
+    {
+      "id": "castle",
+      "type": "word"
+    },
+    {
+      "id": "bernie",
+      "type": "word"
+    },
+    {
+      "id": "coulter",
+      "type": "word"
+    },
+    {
+      "id": "latched",
+      "type": "word"
+    },
+    {
+      "id": "embraces",
+      "type": "word"
+    },
+    {
+      "id": "student",
+      "type": "word"
+    },
+    {
+      "id": "economists",
+      "type": "word"
+    },
+    {
+      "id": "radical",
+      "type": "word"
+    },
+    {
+      "id": "echo",
+      "type": "word"
+    },
+    {
+      "id": "rant",
+      "type": "word"
+    },
+    {
+      "id": "mea",
+      "type": "word"
+    },
+    {
+      "id": "americans",
+      "type": "word"
+    },
+    {
+      "id": "embraced",
+      "type": "word"
+    },
+    {
+      "id": "wasn",
+      "type": "word"
+    },
+    {
+      "id": "sober",
+      "type": "word"
+    },
+    {
+      "id": "tel",
+      "type": "word"
+    },
+    {
+      "id": "george",
+      "type": "word"
+    },
+    {
+      "id": "regret",
+      "type": "word"
+    },
+    {
+      "id": "brock",
+      "type": "word"
+    },
+    {
+      "id": "carson",
+      "type": "word"
+    },
+    {
+      "id": "sheer",
+      "type": "word"
+    },
+    {
+      "id": "overt",
+      "type": "word"
+    },
+    {
+      "id": "privacy",
+      "type": "word"
+    },
+    {
+      "id": "families",
+      "type": "word"
+    },
+    {
+      "id": "Guardian",
+      "type": "media_source"
+    },
+    {
+      "id": "lawsuits",
+      "type": "word"
+    },
+    {
+      "id": "avowed",
+      "type": "word"
+    },
+    {
+      "id": "jeb",
+      "type": "word"
+    },
+    {
+      "id": "National Review Online",
+      "type": "media_source"
+    },
+    {
+      "id": "visas",
+      "type": "word"
+    },
+    {
+      "id": "bourgeois",
+      "type": "word"
+    },
+    {
+      "id": "dailycaller.com",
+      "type": "media_source"
+    },
+    {
+      "id": "fusion.net",
+      "type": "media_source"
+    },
+    {
+      "id": "john",
+      "type": "word"
+    },
+    {
+      "id": "hewitt",
+      "type": "word"
+    },
+    {
+      "id": "meme",
+      "type": "word"
+    },
+    {
+      "id": "option",
+      "type": "word"
+    },
+    {
+      "id": "viktor",
+      "type": "word"
+    },
+    {
+      "id": "predictably",
+      "type": "word"
+    },
+    {
+      "id": "moscow",
+      "type": "word"
+    },
+    {
+      "id": "todd",
+      "type": "word"
+    },
+    {
+      "id": "labash",
+      "type": "word"
+    },
+    {
+      "id": "Salon.com",
+      "type": "media_source"
+    },
+    {
+      "id": "cops",
+      "type": "word"
+    },
+    {
+      "id": "hillary",
+      "type": "word"
+    },
+    {
+      "id": "imagery",
+      "type": "word"
+    },
+    {
+      "id": "predictable",
+      "type": "word"
+    },
+    {
+      "id": "western",
+      "type": "word"
+    },
+    {
+      "id": "weld",
+      "type": "word"
+    },
+    {
+      "id": "trolls",
+      "type": "word"
+    },
+    {
+      "id": "elite",
+      "type": "word"
+    },
+    {
+      "id": "haven",
+      "type": "word"
+    },
+    {
+      "id": "fred",
+      "type": "word"
+    },
+    {
+      "id": "obama",
+      "type": "word"
+    },
+    {
+      "id": "photograph",
+      "type": "word"
+    },
+    {
+      "id": "assaulted",
+      "type": "word"
+    },
+    {
+      "id": "ben",
+      "type": "word"
+    },
+    {
+      "id": "gotten",
+      "type": "word"
+    },
+    {
+      "id": "rubble",
+      "type": "word"
+    },
+    {
+      "id": "immigrants",
+      "type": "word"
+    },
+    {
+      "id": "discriminating",
+      "type": "word"
+    },
+    {
+      "id": "bethany",
+      "type": "word"
+    },
+    {
+      "id": "insulted",
+      "type": "word"
+    },
+    {
+      "id": "newrepublic.com",
+      "type": "media_source"
+    },
+    {
+      "id": "bauer",
+      "type": "word"
+    },
+    {
+      "id": "leslie",
+      "type": "word"
+    },
+    {
+      "id": "marines",
+      "type": "word"
+    },
+    {
+      "id": "Huffington Post",
+      "type": "media_source"
+    },
+    {
+      "id": "russia",
+      "type": "word"
+    },
+    {
+      "id": "dana",
+      "type": "word"
+    },
+    {
+      "id": "breitbart.com",
+      "type": "media_source"
+    },
+    {
+      "id": "mini",
+      "type": "word"
+    },
+    {
+      "id": "lewandowski",
+      "type": "word"
+    },
+    {
+      "id": "false",
+      "type": "word"
+    },
+    {
+      "id": "8chan",
+      "type": "word"
+    },
+    {
+      "id": "nominee",
+      "type": "word"
+    },
+    {
+      "id": "supremacist",
+      "type": "word"
+    },
+    {
+      "id": "pro",
+      "type": "word"
+    },
+    {
+      "id": "premier",
+      "type": "word"
+    },
+    {
+      "id": "The Daily Beast",
+      "type": "media_source"
+    },
+    {
+      "id": "assange",
+      "type": "word"
+    },
+    {
+      "id": "reno",
+      "type": "word"
+    },
+    {
+      "id": "brimelow",
+      "type": "word"
+    },
+    {
+      "id": "terrorists",
+      "type": "word"
+    },
+    {
+      "id": "rap",
+      "type": "word"
+    },
+    {
+      "id": "yedlin",
+      "type": "word"
+    },
+    {
+      "id": "constrained",
+      "type": "word"
+    },
+    {
+      "id": "nazi",
+      "type": "word"
+    },
+    {
+      "id": "praising",
+      "type": "word"
+    },
+    {
+      "id": "wilson",
+      "type": "word"
+    },
+    {
+      "id": "resigned",
+      "type": "word"
+    },
+    {
+      "id": "halderman",
+      "type": "word"
+    },
+    {
+      "id": "russians",
+      "type": "word"
+    },
+    {
+      "id": "wink",
+      "type": "word"
+    },
+    {
+      "id": "warriors",
+      "type": "word"
+    },
+    {
+      "id": "mic",
+      "type": "word"
+    },
+    {
+      "id": "endangered",
+      "type": "word"
+    },
+    {
+      "id": "advocates",
+      "type": "word"
+    },
+    {
+      "id": "online",
+      "type": "word"
+    },
+    {
+      "id": "donor",
+      "type": "word"
+    },
+    {
+      "id": "latino",
+      "type": "word"
+    },
+    {
+      "id": "kremlin",
+      "type": "word"
+    },
+    {
+      "id": "stormer",
+      "type": "word"
+    },
+    {
+      "id": "disavowal",
+      "type": "word"
+    },
+    {
+      "id": "theatre",
+      "type": "word"
+    },
+    {
+      "id": "distaste",
+      "type": "word"
+    },
+    {
+      "id": "african",
+      "type": "word"
+    },
+    {
+      "id": "doman",
+      "type": "word"
+    },
+    {
+      "id": "staffers",
+      "type": "word"
+    },
+    {
+      "id": "kelly",
+      "type": "word"
+    },
+    {
+      "id": "donation",
+      "type": "word"
+    },
+    {
+      "id": "visa",
+      "type": "word"
+    },
+    {
+      "id": "germany",
+      "type": "word"
+    },
+    {
+      "id": "alpha",
+      "type": "word"
+    },
+    {
+      "id": "nbcnews.com",
+      "type": "media_source"
+    },
+    {
+      "id": "america",
+      "type": "word"
+    },
+    {
+      "id": "medal",
+      "type": "word"
+    },
+    {
+      "id": "brutus",
+      "type": "word"
+    },
+    {
+      "id": "nonprofits",
+      "type": "word"
+    },
+    {
+      "id": "michelle",
+      "type": "word"
+    },
+    {
+      "id": "lawn",
+      "type": "word"
+    },
+    {
+      "id": "authoritarians",
+      "type": "word"
+    },
+    {
+      "id": "montage",
+      "type": "word"
+    },
+    {
+      "id": "newsweek.com",
+      "type": "media_source"
+    },
+    {
+      "id": "professor",
+      "type": "word"
+    },
+    {
+      "id": "ambitions",
+      "type": "word"
+    },
+    {
+      "id": "upset",
+      "type": "word"
+    },
+    {
+      "id": "mrs",
+      "type": "word"
+    },
+    {
+      "id": "astonishing",
+      "type": "word"
+    },
+    {
+      "id": "piccard",
+      "type": "word"
+    },
+    {
+      "id": "veils",
+      "type": "word"
+    },
+    {
+      "id": "slaves",
+      "type": "word"
+    },
+    {
+      "id": "abedin",
+      "type": "word"
+    },
+    {
+      "id": "businessman",
+      "type": "word"
+    },
+    {
+      "id": "piggott",
+      "type": "word"
+    },
+    {
+      "id": "fact",
+      "type": "word"
+    },
+    {
+      "id": "weiner",
+      "type": "word"
+    },
+    {
+      "id": "german",
+      "type": "word"
+    },
+    {
+      "id": "allegations",
+      "type": "word"
+    },
+    {
+      "id": "sexist",
+      "type": "word"
+    },
+    {
+      "id": "subreddit",
+      "type": "word"
+    },
+    {
+      "id": "sherrod",
+      "type": "word"
+    },
+    {
+      "id": "booze",
+      "type": "word"
+    },
+    {
+      "id": "playbook",
+      "type": "word"
+    },
+    {
+      "id": "hack",
+      "type": "word"
+    },
+    {
+      "id": "jared",
+      "type": "word"
+    },
+    {
+      "id": "headlines",
+      "type": "word"
+    },
+    {
+      "id": "nevada",
+      "type": "word"
+    },
+    {
+      "id": "deportation",
+      "type": "word"
+    },
+    {
+      "id": "noah",
+      "type": "word"
+    },
+    {
+      "id": "headline",
+      "type": "word"
+    },
+    {
+      "id": "jar",
+      "type": "word"
+    },
+    {
+      "id": "crime",
+      "type": "word"
+    },
+    {
+      "id": "mccain",
+      "type": "word"
+    },
+    {
+      "id": "bush",
+      "type": "word"
+    },
+    {
+      "id": "couldn",
+      "type": "word"
+    },
+    {
+      "id": "betray",
+      "type": "word"
+    },
+    {
+      "id": "disgust",
+      "type": "word"
+    },
+    {
+      "id": "feminists",
+      "type": "word"
+    },
+    {
+      "id": "jag",
+      "type": "word"
+    },
+    {
+      "id": "communist",
+      "type": "word"
+    },
+    {
+      "id": "buchanan",
+      "type": "word"
+    },
+    {
+      "id": "boyle",
+      "type": "word"
+    },
+    {
+      "id": "carolina",
+      "type": "word"
+    },
+    {
+      "id": "stormfront",
+      "type": "word"
+    },
+    {
+      "id": "meanwhile",
+      "type": "word"
+    },
+    {
+      "id": "michigan",
+      "type": "word"
+    },
+    {
+      "id": "scientists",
+      "type": "word"
+    },
+    {
+      "id": "denounce",
+      "type": "word"
+    },
+    {
+      "id": "impeachment",
+      "type": "word"
+    },
+    {
+      "id": "whistle",
+      "type": "word"
+    },
+    {
+      "id": "hailed",
+      "type": "word"
+    },
+    {
+      "id": "statewide",
+      "type": "word"
+    },
+    {
+      "id": "legitimate",
+      "type": "word"
+    },
+    {
+      "id": "pretending",
+      "type": "word"
+    },
+    {
+      "id": "stelter",
+      "type": "word"
+    },
+    {
+      "id": "hedge",
+      "type": "word"
+    },
+    {
+      "id": "unum",
+      "type": "word"
+    },
+    {
+      "id": "celebrate",
+      "type": "word"
+    },
+    {
+      "id": "distraction",
+      "type": "word"
+    },
+    {
+      "id": "bankruptcy",
+      "type": "word"
+    },
+    {
+      "id": "vdare",
+      "type": "word"
+    },
+    {
+      "id": "child",
+      "type": "word"
+    },
+    {
+      "id": "unauthorized",
+      "type": "word"
+    },
+    {
+      "id": "exonerating",
+      "type": "word"
+    },
+    {
+      "id": "taxes",
+      "type": "word"
+    },
+    {
+      "id": "banning",
+      "type": "word"
+    },
+    {
+      "id": "reid",
+      "type": "word"
+    },
+    {
+      "id": "extremists",
+      "type": "word"
+    },
+    {
+      "id": "embassy",
+      "type": "word"
+    },
+    {
+      "id": "roger",
+      "type": "word"
+    },
+    {
+      "id": "predicted",
+      "type": "word"
+    },
+    {
+      "id": "allegation",
+      "type": "word"
+    },
+    {
+      "id": "embracing",
+      "type": "word"
+    },
+    {
+      "id": "ban",
+      "type": "word"
+    },
+    {
+      "id": "ohio",
+      "type": "word"
+    },
+    {
+      "id": "viet",
+      "type": "word"
+    },
+    {
+      "id": "bokhari",
+      "type": "word"
+    },
+    {
+      "id": "insane",
+      "type": "word"
+    },
+    {
+      "id": "shapiro",
+      "type": "word"
+    },
+    {
+      "id": "buzzfeed",
+      "type": "word"
+    },
+    {
+      "id": "prayers",
+      "type": "word"
+    },
+    {
+      "id": "intelligence",
+      "type": "word"
+    },
+    {
+      "id": "activists",
+      "type": "word"
+    },
+    {
+      "id": "immigrant",
+      "type": "word"
+    },
+    {
+      "id": "huckabee",
+      "type": "word"
+    },
+    {
+      "id": "analytics",
+      "type": "word"
+    },
+    {
+      "id": "college",
+      "type": "word"
+    },
+    {
+      "id": "sean",
+      "type": "word"
+    },
+    {
+      "id": "corrupt",
+      "type": "word"
+    },
+    {
+      "id": "sen",
+      "type": "word"
+    },
+    {
+      "id": "bee",
+      "type": "word"
+    },
+    {
+      "id": "brazil",
+      "type": "word"
+    },
+    {
+      "id": "youth",
+      "type": "word"
+    },
+    {
+      "id": "israeli",
+      "type": "word"
+    },
+    {
+      "id": "agrippa",
+      "type": "word"
+    },
+    {
+      "id": "nuclear",
+      "type": "word"
+    },
+    {
+      "id": "klux",
+      "type": "word"
+    },
+    {
+      "id": "maizière",
+      "type": "word"
+    },
+    {
+      "id": "swimwear",
+      "type": "word"
+    },
+    {
+      "id": "ailes",
+      "type": "word"
+    },
+    {
+      "id": "weapons",
+      "type": "word"
+    },
+    {
+      "id": "goldwater",
+      "type": "word"
+    },
+    {
+      "id": "smikle",
+      "type": "word"
+    },
+    {
+      "id": "olympics",
+      "type": "word"
+    },
+    {
+      "id": "horrible",
+      "type": "word"
+    },
+    {
+      "id": "ebola",
+      "type": "word"
+    },
+    {
+      "id": "stoking",
+      "type": "word"
+    },
+    {
+      "id": "donate",
+      "type": "word"
+    },
+    {
+      "id": "frustrated",
+      "type": "word"
+    },
+    {
+      "id": "corruption",
+      "type": "word"
+    },
+    {
+      "id": "righters",
+      "type": "word"
+    },
+    {
+      "id": "verification",
+      "type": "word"
+    },
+    {
+      "id": "europe",
+      "type": "word"
+    },
+    {
+      "id": "disavowed",
+      "type": "word"
+    },
+    {
+      "id": "reddit",
+      "type": "word"
+    },
+    {
+      "id": "admirers",
+      "type": "word"
+    },
+    {
+      "id": "deployed",
+      "type": "word"
+    },
+    {
+      "id": "loves",
+      "type": "word"
+    },
+    {
+      "id": "theblaze",
+      "type": "word"
+    },
+    {
+      "id": "southeast",
+      "type": "word"
+    },
+    {
+      "id": "aircraft",
+      "type": "word"
+    },
+    {
+      "id": "takeover",
+      "type": "word"
+    },
+    {
+      "id": "tyler",
+      "type": "word"
+    },
+    {
+      "id": "wcf",
+      "type": "word"
+    },
+    {
+      "id": "lesdoggg",
+      "type": "word"
+    },
+    {
+      "id": "trolling",
+      "type": "word"
+    },
+    {
+      "id": "embed",
+      "type": "word"
+    },
+    {
+      "id": "atlantic",
+      "type": "word"
+    },
+    {
+      "id": "league",
+      "type": "word"
+    },
+    {
+      "id": "climate",
+      "type": "word"
+    },
+    {
+      "id": "parentheses",
+      "type": "word"
+    },
+    {
+      "id": "mindy",
+      "type": "word"
+    },
+    {
+      "id": "lgbt",
+      "type": "word"
+    },
+    {
+      "id": "influential",
+      "type": "word"
+    },
+    {
+      "id": "cuckolded",
+      "type": "word"
+    },
+    {
+      "id": "columnist",
+      "type": "word"
+    },
+    {
+      "id": "comey",
+      "type": "word"
+    },
+    {
+      "id": "peloponnesian",
+      "type": "word"
+    },
+    {
+      "id": "brad",
+      "type": "word"
+    },
+    {
+      "id": "semitic",
+      "type": "word"
+    },
+    {
+      "id": "donnell",
+      "type": "word"
+    },
+    {
+      "id": "hostility",
+      "type": "word"
+    },
+    {
+      "id": "wade",
+      "type": "word"
+    },
+    {
+      "id": "birtherism",
+      "type": "word"
+    },
+    {
+      "id": "unclear",
+      "type": "word"
+    },
+    {
+      "id": "ridiculing",
+      "type": "word"
+    },
+    {
+      "id": "provocation",
+      "type": "word"
+    },
+    {
+      "id": "businessinsider.com",
+      "type": "media_source"
+    },
+    {
+      "id": "jeff",
+      "type": "word"
+    },
+    {
+      "id": "bloggers",
+      "type": "word"
+    },
+    {
+      "id": "kirkpatrick",
+      "type": "word"
+    },
+    {
+      "id": "pop",
+      "type": "word"
+    },
+    {
+      "id": "resentment",
+      "type": "word"
+    },
+    {
+      "id": "philadelphia",
+      "type": "word"
+    },
+    {
+      "id": "twin",
+      "type": "word"
+    },
+    {
+      "id": "anti",
+      "type": "word"
+    },
+    {
+      "id": "poll",
+      "type": "word"
+    },
+    {
+      "id": "nationalist",
+      "type": "word"
+    },
+    {
+      "id": "hannity",
+      "type": "word"
+    },
+    {
+      "id": "barack",
+      "type": "word"
+    },
+    {
+      "id": "yushchenko",
+      "type": "word"
+    },
+    {
+      "id": "investors",
+      "type": "word"
+    },
+    {
+      "id": "daddy",
+      "type": "word"
+    },
+    {
+      "id": "discrimination",
+      "type": "word"
+    },
+    {
+      "id": "referendum",
+      "type": "word"
+    },
+    {
+      "id": "ramzpaul",
+      "type": "word"
+    },
+    {
+      "id": "freelance",
+      "type": "word"
+    },
+    {
+      "id": "privilege",
+      "type": "word"
+    },
+    {
+      "id": "widening",
+      "type": "word"
+    },
+    {
+      "id": "troopers",
+      "type": "word"
+    },
+    {
+      "id": "topics",
+      "type": "word"
+    },
+    {
+      "id": "deportations",
+      "type": "word"
+    },
+    {
+      "id": "website",
+      "type": "word"
+    },
+    {
+      "id": "sanders",
+      "type": "word"
+    },
+    {
+      "id": "mike",
+      "type": "word"
+    },
+    {
+      "id": "educated",
+      "type": "word"
+    },
+    {
+      "id": "diversity",
+      "type": "word"
+    },
+    {
+      "id": "bernardino",
+      "type": "word"
+    },
+    {
+      "id": "baum",
+      "type": "word"
+    },
+    {
+      "id": "andrew",
+      "type": "word"
+    },
+    {
+      "id": "palestinian",
+      "type": "word"
+    },
+    {
+      "id": "disney",
+      "type": "word"
+    },
+    {
+      "id": "anthony",
+      "type": "word"
+    },
+    {
+      "id": "stephen",
+      "type": "word"
+    },
+    {
+      "id": "tapping",
+      "type": "word"
+    },
+    {
+      "id": "minister",
+      "type": "word"
+    },
+    {
+      "id": "systematic",
+      "type": "word"
+    },
+    {
+      "id": "hashtag",
+      "type": "word"
+    },
+    {
+      "id": "maclennan",
+      "type": "word"
+    },
+    {
+      "id": "prosecutors",
+      "type": "word"
+    },
+    {
+      "id": "deport",
+      "type": "word"
+    },
+    {
+      "id": "andrea",
+      "type": "word"
+    },
+    {
+      "id": "coordination",
+      "type": "word"
+    },
+    {
+      "id": "evangelical",
+      "type": "word"
+    },
+    {
+      "id": "hughes",
+      "type": "word"
+    },
+    {
+      "id": "georgia",
+      "type": "word"
+    },
+    {
+      "id": "cupping",
+      "type": "word"
+    },
+    {
+      "id": "spartans",
+      "type": "word"
+    },
+    {
+      "id": "value",
+      "type": "word"
+    },
+    {
+      "id": "weren",
+      "type": "word"
+    },
+    {
+      "id": "elites",
+      "type": "word"
+    },
+    {
+      "id": "rigged",
+      "type": "word"
+    },
+    {
+      "id": "mitchell",
+      "type": "word"
+    },
+    {
+      "id": "birthright",
+      "type": "word"
+    },
+    {
+      "id": "smerconish",
+      "type": "word"
+    },
+    {
+      "id": "provocative",
+      "type": "word"
+    },
+    {
+      "id": "mexico",
+      "type": "word"
+    },
+    {
+      "id": "carlson",
+      "type": "word"
+    },
+    {
+      "id": "imperialist",
+      "type": "word"
+    },
+    {
+      "id": "anonymity",
+      "type": "word"
+    },
+    {
+      "id": "ellison",
+      "type": "word"
+    },
+    {
+      "id": "rio",
+      "type": "word"
+    },
+    {
+      "id": "bias",
+      "type": "word"
+    },
+    {
+      "id": "embrace",
+      "type": "word"
+    },
+    {
+      "id": "clip",
+      "type": "word"
+    },
+    {
+      "id": "birchers",
+      "type": "word"
+    },
+    {
+      "id": "vox",
+      "type": "word"
+    },
+    {
+      "id": "burkini",
+      "type": "word"
+    },
+    {
+      "id": "klansmen",
+      "type": "word"
+    },
+    {
+      "id": "lengthy",
+      "type": "word"
+    },
+    {
+      "id": "terrorist",
+      "type": "word"
+    },
+    {
+      "id": "verified",
+      "type": "word"
+    },
+    {
+      "id": "nike",
+      "type": "word"
+    },
+    {
+      "id": "media",
+      "type": "word"
+    },
+    {
+      "id": "campus",
+      "type": "word"
+    },
+    {
+      "id": "ayotte",
+      "type": "word"
+    },
+    {
+      "id": "matthew",
+      "type": "word"
+    },
+    {
+      "id": "discourse",
+      "type": "word"
+    },
+    {
+      "id": "pac",
+      "type": "word"
+    },
+    {
+      "id": "setmayer",
+      "type": "word"
+    },
+    {
+      "id": "damon",
+      "type": "word"
+    },
+    {
+      "id": "terrorism",
+      "type": "word"
+    },
+    {
+      "id": "european",
+      "type": "word"
+    },
+    {
+      "id": "independent",
+      "type": "word"
+    },
+    {
+      "id": "leftist",
+      "type": "word"
+    },
+    {
+      "id": "putin",
+      "type": "word"
+    },
+    {
+      "id": "curators",
+      "type": "word"
+    },
+    {
+      "id": "sacramento",
+      "type": "word"
+    },
+    {
+      "id": "siegel",
+      "type": "word"
+    },
+    {
+      "id": "san",
+      "type": "word"
+    },
+    {
+      "id": "beast",
+      "type": "word"
+    },
+    {
+      "id": "renaissance",
+      "type": "word"
+    },
+    {
+      "id": "discredited",
+      "type": "word"
+    },
+    {
+      "id": "bloomberg",
+      "type": "word"
+    },
+    {
+      "id": "birch",
+      "type": "word"
+    },
+    {
+      "id": "giuliani",
+      "type": "word"
+    },
+    {
+      "id": "supremacists",
+      "type": "word"
+    },
+    {
+      "id": "buckley",
+      "type": "word"
+    },
+    {
+      "id": "infamous",
+      "type": "word"
+    },
+    {
+      "id": "energized",
+      "type": "word"
+    },
+    {
+      "id": "escorts",
+      "type": "word"
+    },
+    {
+      "id": "shiites",
+      "type": "word"
+    },
+    {
+      "id": "surrogate",
+      "type": "word"
+    },
+    {
+      "id": "pennsylvania",
+      "type": "word"
+    },
+    {
+      "id": "seth",
+      "type": "word"
+    },
+    {
+      "id": "fusion",
+      "type": "word"
+    },
+    {
+      "id": "hispanic",
+      "type": "word"
+    },
+    {
+      "id": "breeze",
+      "type": "word"
+    },
+    {
+      "id": "vets",
+      "type": "word"
+    },
+    {
+      "id": "baltimore",
+      "type": "word"
+    },
+    {
+      "id": "english",
+      "type": "word"
+    },
+    {
+      "id": "dailywire.com",
+      "type": "media_source"
+    },
+    {
+      "id": "echoes",
+      "type": "word"
+    },
+    {
+      "id": "alabama",
+      "type": "word"
+    },
+    {
+      "id": "reward",
+      "type": "word"
+    },
+    {
+      "id": "corporate",
+      "type": "word"
+    },
+    {
+      "id": "spencer",
+      "type": "word"
+    },
+    {
+      "id": "ccc",
+      "type": "word"
+    },
+    {
+      "id": "opinions",
+      "type": "word"
+    },
+    {
+      "id": "RealClearPolitics - Opinion, News, Analysis, Videos and Polls",
+      "type": "media_source"
+    },
+    {
+      "id": "kiss",
+      "type": "word"
+    },
+    {
+      "id": "softening",
+      "type": "word"
+    },
+    {
+      "id": "poach",
+      "type": "word"
+    },
+    {
+      "id": "photo",
+      "type": "word"
+    },
+    {
+      "id": "cuck",
+      "type": "word"
+    },
+    {
+      "id": "ambition",
+      "type": "word"
+    },
+    {
+      "id": "pol",
+      "type": "word"
+    },
+    {
+      "id": "slimy",
+      "type": "word"
+    },
+    {
+      "id": "violent",
+      "type": "word"
+    },
+    {
+      "id": "geller",
+      "type": "word"
+    },
+    {
+      "id": "paleoconservatives",
+      "type": "word"
+    },
+    {
+      "id": "victim",
+      "type": "word"
+    },
+    {
+      "id": "facts",
+      "type": "word"
+    },
+    {
+      "id": "paul",
+      "type": "word"
+    },
+    {
+      "id": "mic.com",
+      "type": "media_source"
+    },
+    {
+      "id": "harrah",
+      "type": "word"
+    },
+    {
+      "id": "rousseff",
+      "type": "word"
+    },
+    {
+      "id": "begala",
+      "type": "word"
+    },
+    {
+      "id": "buyers",
+      "type": "word"
+    },
+    {
+      "id": "reckoning",
+      "type": "word"
+    },
+    {
+      "id": "campaign",
+      "type": "word"
+    },
+    {
+      "id": "feminist",
+      "type": "word"
+    },
+    {
+      "id": "assassination",
+      "type": "word"
+    },
+    {
+      "id": "demographic",
+      "type": "word"
+    },
+    {
+      "id": "semitism",
+      "type": "word"
+    },
+    {
+      "id": "macdonald",
+      "type": "word"
+    },
+    {
+      "id": "wright",
+      "type": "word"
+    },
+    {
+      "id": "cantor",
+      "type": "word"
+    },
+    {
+      "id": "nato",
+      "type": "word"
+    },
+    {
+      "id": "viewers",
+      "type": "word"
+    },
+    {
+      "id": "feminism",
+      "type": "word"
+    },
+    {
+      "id": "priebus",
+      "type": "word"
+    },
+    {
+      "id": "mocked",
+      "type": "word"
+    },
+    {
+      "id": "victims",
+      "type": "word"
+    },
+    {
+      "id": "schwarzenegger",
+      "type": "word"
+    },
+    {
+      "id": "stein",
+      "type": "word"
+    },
+    {
+      "id": "boasted",
+      "type": "word"
+    },
+    {
+      "id": "rnc",
+      "type": "word"
+    },
+    {
+      "id": "advocate",
+      "type": "word"
+    },
+    {
+      "id": "utah",
+      "type": "word"
+    },
+    {
+      "id": "virginia",
+      "type": "word"
+    },
+    {
+      "id": "cruz",
+      "type": "word"
+    },
+    {
+      "id": "huffpost",
+      "type": "word"
+    },
+    {
+      "id": "tingle",
+      "type": "word"
+    },
+    {
+      "id": "mom",
+      "type": "word"
+    },
+    {
+      "id": "taki",
+      "type": "word"
+    },
+    {
+      "id": "confined",
+      "type": "word"
+    },
+    {
+      "id": "credentials",
+      "type": "word"
+    },
+    {
+      "id": "wallnau",
+      "type": "word"
+    },
+    {
+      "id": "vanity",
+      "type": "word"
+    },
+    {
+      "id": "lincoln",
+      "type": "word"
+    },
+    {
+      "id": "berlet",
+      "type": "word"
+    },
+    {
+      "id": "consensual",
+      "type": "word"
+    },
+    {
+      "id": "kennedy",
+      "type": "word"
+    },
+    {
+      "id": "memo",
+      "type": "word"
+    },
+    {
+      "id": "bigotry",
+      "type": "word"
+    },
+    {
+      "id": "journalism",
+      "type": "word"
+    },
+    {
+      "id": "homosexuality",
+      "type": "word"
+    },
+    {
+      "id": "chamber",
+      "type": "word"
+    },
+    {
+      "id": "cernovich",
+      "type": "word"
+    },
+    {
+      "id": "journalist",
+      "type": "word"
+    },
+    {
+      "id": "tower",
+      "type": "word"
+    },
+    {
+      "id": "pseudonym",
+      "type": "word"
+    },
+    {
+      "id": "refugees",
+      "type": "word"
+    },
+    {
+      "id": "google",
+      "type": "word"
+    },
+    {
+      "id": "theorists",
+      "type": "word"
+    },
+    {
+      "id": "jews",
+      "type": "word"
+    },
+    {
+      "id": "brash",
+      "type": "word"
+    },
+    {
+      "id": "orlando",
+      "type": "word"
+    },
+    {
+      "id": "twitter",
+      "type": "word"
+    },
+    {
+      "id": "dole",
+      "type": "word"
+    },
+    {
+      "id": "realdonaldtrump",
+      "type": "word"
+    },
+    {
+      "id": "extremist",
+      "type": "word"
+    },
+    {
+      "id": "donald",
+      "type": "word"
+    },
+    {
+      "id": "economic",
+      "type": "word"
+    },
+    {
+      "id": "demeaning",
+      "type": "word"
+    },
+    {
+      "id": "harassment",
+      "type": "word"
+    },
+    {
+      "id": "peter",
+      "type": "word"
+    },
+    {
+      "id": "ballot",
+      "type": "word"
+    },
+    {
+      "id": "fbi",
+      "type": "word"
+    },
+    {
+      "id": "wellesley",
+      "type": "word"
+    },
+    {
+      "id": "scandals",
+      "type": "word"
+    },
+    {
+      "id": "ellis",
+      "type": "word"
+    },
+    {
+      "id": "4chan",
+      "type": "word"
+    },
+    {
+      "id": "pregnant",
+      "type": "word"
+    },
+    {
+      "id": "fox",
+      "type": "word"
+    },
+    {
+      "id": "conservative",
+      "type": "word"
+    },
+    {
+      "id": "hipster",
+      "type": "word"
+    },
+    {
+      "id": "cnn",
+      "type": "word"
+    },
+    {
+      "id": "shamir",
+      "type": "word"
+    },
+    {
+      "id": "murdoch",
+      "type": "word"
+    },
+    {
+      "id": "predators",
+      "type": "word"
+    },
+    {
+      "id": "angelo",
+      "type": "word"
+    },
+    {
+      "id": "populists",
+      "type": "word"
+    },
+    {
+      "id": "dumond",
+      "type": "word"
+    },
+    {
+      "id": "mitt",
+      "type": "word"
+    },
+    {
+      "id": "wessler",
+      "type": "word"
+    },
+    {
+      "id": "outreach",
+      "type": "word"
+    },
+    {
+      "id": "criminals",
+      "type": "word"
+    },
+    {
+      "id": "pastors",
+      "type": "word"
+    },
+    {
+      "id": "francis",
+      "type": "word"
+    },
+    {
+      "id": "super",
+      "type": "word"
+    },
+    {
+      "id": "apologia",
+      "type": "word"
+    },
+    {
+      "id": "chapter",
+      "type": "word"
+    },
+    {
+      "id": "rodham",
+      "type": "word"
+    },
+    {
+      "id": "hawkish",
+      "type": "word"
+    },
+    {
+      "id": "rallying",
+      "type": "word"
+    },
+    {
+      "id": "shariah",
+      "type": "word"
+    },
+    {
+      "id": "freedom",
+      "type": "word"
+    },
+    {
+      "id": "fringe",
+      "type": "word"
+    },
+    {
+      "id": "victimhood",
+      "type": "word"
+    },
+    {
+      "id": "burnham",
+      "type": "word"
+    },
+    {
+      "id": "undocumented",
+      "type": "word"
+    },
+    {
+      "id": "cadre",
+      "type": "word"
+    },
+    {
+      "id": "banker",
+      "type": "word"
+    },
+    {
+      "id": "puppies",
+      "type": "word"
+    },
+    {
+      "id": "lochte",
+      "type": "word"
+    },
+    {
+      "id": "documentary",
+      "type": "word"
+    },
+    {
+      "id": "bannon",
+      "type": "word"
+    },
+    {
+      "id": "duke",
+      "type": "word"
+    },
+    {
+      "id": "footage",
+      "type": "word"
+    },
+    {
+      "id": "trounce",
+      "type": "word"
+    },
+    {
+      "id": "clinton",
+      "type": "word"
+    },
+    {
+      "id": "colorado",
+      "type": "word"
+    },
+    {
+      "id": "conway",
+      "type": "word"
+    },
+    {
+      "id": "washington",
+      "type": "word"
+    },
+    {
+      "id": "intellectual",
+      "type": "word"
+    },
+    {
+      "id": "fundraiser",
+      "type": "word"
+    },
+    {
+      "id": "patreon",
+      "type": "word"
+    },
+    {
+      "id": "gary",
+      "type": "word"
+    },
+    {
+      "id": "contributor",
+      "type": "word"
+    },
+    {
+      "id": "pollak",
+      "type": "word"
+    },
+    {
+      "id": "gawker",
+      "type": "word"
+    },
+    {
+      "id": "despised",
+      "type": "word"
+    },
+    {
+      "id": "rothman",
+      "type": "word"
+    },
+    {
+      "id": "transcript",
+      "type": "word"
+    },
+    {
+      "id": "partnership",
+      "type": "word"
+    },
+    {
+      "id": "racism",
+      "type": "word"
+    },
+    {
+      "id": "christianity",
+      "type": "word"
+    },
+    {
+      "id": "anderson",
+      "type": "word"
+    },
+    {
+      "id": "joseph",
+      "type": "word"
+    },
+    {
+      "id": "racist",
+      "type": "word"
+    },
+    {
+      "id": "mandel",
+      "type": "word"
+    },
+    {
+      "id": "utr",
+      "type": "word"
+    },
+    {
+      "id": "war",
+      "type": "word"
+    },
+    {
+      "id": "opponent",
+      "type": "word"
+    },
+    {
+      "id": "loesch",
+      "type": "word"
+    },
+    {
+      "id": "journo",
+      "type": "word"
+    },
+    {
+      "id": "jewish",
+      "type": "word"
+    },
+    {
+      "id": "brand",
+      "type": "word"
+    },
+    {
+      "id": "immigration",
+      "type": "word"
+    },
+    {
+      "id": "backshall",
+      "type": "word"
+    },
+    {
+      "id": "deductions",
+      "type": "word"
+    },
+    {
+      "id": "getty",
+      "type": "word"
+    },
+    {
+      "id": "gallup",
+      "type": "word"
+    },
+    {
+      "id": "farage",
+      "type": "word"
+    },
+    {
+      "id": "russian",
+      "type": "word"
+    },
+    {
+      "id": "tiller",
+      "type": "word"
+    },
+    {
+      "id": "candidacy",
+      "type": "word"
+    },
+    {
+      "id": "true",
+      "type": "word"
+    },
+    {
+      "id": "altright",
+      "type": "word"
+    },
+    {
+      "id": "aldridge",
+      "type": "word"
+    },
+    {
+      "id": "patriot",
+      "type": "word"
+    },
+    {
+      "id": "fraud",
+      "type": "word"
+    },
+    {
+      "id": "isis",
+      "type": "word"
+    },
+    {
+      "id": "algorithm",
+      "type": "word"
+    },
+    {
+      "id": "caller",
+      "type": "word"
+    },
+    {
+      "id": "bashar",
+      "type": "word"
+    },
+    {
+      "id": "clips",
+      "type": "word"
+    },
+    {
+      "id": "chairmanship",
+      "type": "word"
+    },
+    {
+      "id": "sunnis",
+      "type": "word"
+    },
+    {
+      "id": "eschew",
+      "type": "word"
+    },
+    {
+      "id": "backfired",
+      "type": "word"
+    },
+    {
+      "id": "multiculturalism",
+      "type": "word"
+    },
+    {
+      "id": "meyers",
+      "type": "word"
+    },
+    {
+      "id": "Vox",
+      "type": "media_source"
+    },
+    {
+      "id": "kaine",
+      "type": "word"
+    },
+    {
+      "id": "pravda",
+      "type": "word"
+    },
+    {
+      "id": "supreme",
+      "type": "word"
+    },
+    {
+      "id": "taylor",
+      "type": "word"
+    },
+    {
+      "id": "leaked",
+      "type": "word"
+    },
+    {
+      "id": "politico",
+      "type": "word"
+    },
+    {
+      "id": "rightwingwatch.org",
+      "type": "media_source"
+    },
+    {
+      "id": "mask",
+      "type": "word"
+    },
+    {
+      "id": "pic",
+      "type": "word"
+    },
+    {
+      "id": "romney",
+      "type": "word"
+    },
+    {
+      "id": "cbs",
+      "type": "word"
+    },
+    {
+      "id": "yiannopolous",
+      "type": "word"
+    },
+    {
+      "id": "diverse",
+      "type": "word"
+    },
+    {
+      "id": "New York Times",
+      "type": "media_source"
+    },
+    {
+      "id": "neoconservatives",
+      "type": "word"
+    },
+    {
+      "id": "rally",
+      "type": "word"
+    },
+    {
+      "id": "rightwing",
+      "type": "word"
+    },
+    {
+      "id": "education",
+      "type": "word"
+    },
+    {
+      "id": "syrian",
+      "type": "word"
+    },
+    {
+      "id": "bishop",
+      "type": "word"
+    },
+    {
+      "id": "shit",
+      "type": "word"
+    },
+    {
+      "id": "independents",
+      "type": "word"
+    },
+    {
+      "id": "rumors",
+      "type": "word"
+    },
+    {
+      "id": "western_triumph",
+      "type": "word"
+    },
+    {
+      "id": "deserve",
+      "type": "word"
+    },
+    {
+      "id": "edwards",
+      "type": "word"
+    },
+    {
+      "id": "nehlen",
+      "type": "word"
+    },
+    {
+      "id": "flood",
+      "type": "word"
+    },
+    {
+      "id": "vietnam",
+      "type": "word"
+    },
+    {
+      "id": "aclu",
+      "type": "word"
+    },
+    {
+      "id": "digital",
+      "type": "word"
+    },
+    {
+      "id": "sykes",
+      "type": "word"
+    },
+    {
+      "id": "manhattan",
+      "type": "word"
+    },
+    {
+      "id": "montel",
+      "type": "word"
+    },
+    {
+      "id": "album",
+      "type": "word"
+    },
+    {
+      "id": "illegally",
+      "type": "word"
+    },
+    {
+      "id": "quartz",
+      "type": "word"
+    },
+    {
+      "id": "authoritarian",
+      "type": "word"
+    },
+    {
+      "id": "congress",
+      "type": "word"
+    },
+    {
+      "id": "savage",
+      "type": "word"
+    },
+    {
+      "id": "students",
+      "type": "word"
+    },
+    {
+      "id": "traditionalist",
+      "type": "word"
+    },
+    {
+      "id": "dismantle",
+      "type": "word"
+    },
+    {
+      "id": "outlets",
+      "type": "word"
+    },
+    {
+      "id": "zilber",
+      "type": "word"
+    },
+    {
+      "id": "insults",
+      "type": "word"
+    },
+    {
+      "id": "william",
+      "type": "word"
+    },
+    {
+      "id": "muslims",
+      "type": "word"
+    },
+    {
+      "id": "persecution",
+      "type": "word"
+    },
+    {
+      "id": "foia",
+      "type": "word"
+    },
+    {
+      "id": "jones",
+      "type": "word"
+    },
+    {
+      "id": "lane",
+      "type": "word"
+    },
+    {
+      "id": "redux",
+      "type": "word"
+    },
+    {
+      "id": "apology",
+      "type": "word"
+    },
+    {
+      "id": "photos",
+      "type": "word"
+    },
+    {
+      "id": "dilma",
+      "type": "word"
+    },
+    {
+      "id": "littered",
+      "type": "word"
+    },
+    {
+      "id": "pseudo",
+      "type": "word"
+    },
+    {
+      "id": "lokey",
+      "type": "word"
+    },
+    {
+      "id": "ardently",
+      "type": "word"
+    },
+    {
+      "id": "rallies",
+      "type": "word"
+    },
+    {
+      "id": "splcenter.org",
+      "type": "media_source"
+    },
+    {
+      "id": "menace",
+      "type": "word"
+    },
+    {
+      "id": "robert",
+      "type": "word"
+    }
+  ]
+}
